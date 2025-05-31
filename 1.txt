@@ -1,0 +1,32 @@
+# 💰 Capital Bank Investment Trading
+
+Bienvenue sur le site officiel d'investissement simulé Capital Bank Investment Trading.
+
+Ce projet est une vitrine interactive permettant aux utilisateurs de simuler une session d’investissement avec progression étape par étape via des codes spéciaux.
+
+---
+
+## 🔍 Fonctionnalités principales
+
+- 🌐 Site multilingue (base en français)
+- 🏠 Page d’accueil animée avec :
+  - Image de fond dynamique
+  - Heure en temps réel (fuseau Afrique de l’Ouest)
+  - Bouton “Commencer” menant à l’inscription
+- 📝 Formulaire d’inscription simple
+- 🔐 Vérification par codes successifs :
+  - INVEST25C → 3 000 $
+  - INVEST50H → 10 000 $
+  - INVEST75R → 25 000 $
+  - INVEST100E → 50 000 $
+  - INVEST125S → 150 000 $
+  - INVEST150P → 500 000 $
+  - INVEST175O → 1 500 000 $
+- 📈 Barre de progression visuelle par paliers de montant
+- ✅ Message de succès final à la fin de la simulation
+- 📞 Bouton WhatsApp intégré en bas de page pour contact direct :
+  [Contacter ici](https://wa.me/237689794344)
+
+---
+
+## 📁 Structure des fichiers

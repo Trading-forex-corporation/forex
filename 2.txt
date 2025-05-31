@@ -1,0 +1,24 @@
+---
+
+## 🚀 Déploiement sur GitHub Pages
+
+1. Créez un dépôt GitHub (ex: `investment-site`)
+2. Uploadez tous les fichiers du projet
+3. Allez dans Settings > Pages
+4. Source → Deploy from a branch, branche main, dossier / (root)
+5. Cliquez sur Save
+6. Accédez à votre site en ligne via :  
+   https://votre-nom.github.io/investment-site
+
+---
+
+## ⚠️ Note
+
+Ce projet est une simulation visuelle à but de démonstration ou de présentation uniquement. Aucun véritable investissement n’est effectué.
+
+---
+
+## 👤 Contact
+
+Développé pour : CHRESPO  
+WhatsApp : [📱 +237 689 794 344](https://wa.me/237689794344)
